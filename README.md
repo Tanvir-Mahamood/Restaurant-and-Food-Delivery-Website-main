@@ -78,7 +78,7 @@ The Admin Panel is designed for the restaurant's management, providing the follo
    - Admin can add additional admin accounts to share management responsibilities.
 
 8. User Management:
-   -Admin can view the registered users.
+   - Admin can view the registered users.
 
 
 
@@ -108,15 +108,22 @@ The system is primarily divided into two main components:
 | Update Page | In order to update user information, address, passwords. |
 
 ### Admin Panel:
-Login Page: Admin login page.
-Register Page: Admin register page which is not accessable by the users.
-Dashboard: Provides an overview of key metrics, such as total orders, revenue, and active users and admins.
-Admin Account Page: Hold information of admin.
-Message Page: To receive messages or feedback from users.
-Placed Order Page: Handle orders
-Product page: Display and manage products.
-Update Product Page: Update products.
-Update Profile Page: Update admin profile.
+| Page | Description |  
+|---|---|
+| Login Page | Admin login page. |
+| Register Page | Admin register page which is not accessable by the users. |
+| Dashboard | Provides an overview of key metrics, such as total orders, revenue, and active users and admins. |
+| Admin Account Page | Hold information of admin. |
+| Message Page | To receive messages or feedback from users. |
+| Placed Order Page | Handle orders. |
+| Product page | Display and manage products. |
+| Update Product Page | Update products. |
+| Update Profile Page | Update admin profile. |
+
+### Image Folder
+- [images](https://github.com/Tanvir-Mahamood/Restaurant-and-Food-Delivery-Website-main/tree/main/images) : Images for website frontend.
+- [project images](https://github.com/Tanvir-Mahamood/Restaurant-and-Food-Delivery-Website-main/tree/main/project%20images) : Images of products.
+- [uploaded_img](https://github.com/Tanvir-Mahamood/Restaurant-and-Food-Delivery-Website-main/tree/main/uploaded_img) : Uploaded product images.
 
 
 ## System Workflow
