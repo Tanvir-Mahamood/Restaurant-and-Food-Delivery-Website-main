@@ -39,7 +39,7 @@
             $delete_cart = $conn->prepare("DELETE FROM `cart` WHERE user_id = ?");
             $delete_cart->execute([$user_id]);
 
-            $message[] = 'Order placed successfully!';
+            $message[] = 'Order placed successfully! Estimated time: 30 minutes';
          }
       } else {
          $message[] = 'Your cart is empty';
